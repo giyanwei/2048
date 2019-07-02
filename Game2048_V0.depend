@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1446667744 source:e:\cpp\game2048_v0\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1528895513 source:e:\cpp\game2048_v0\game2048_v0.cpp
+	"Game2048_V0.h"
+
+1515998434 e:\cpp\game2048_v0\game2048_v0.h
+
+1516011637 source:e:\cpp\game2048_v0\resource.rc
+	"resource.h"
+	<afxres.h>
+
+1515989151 e:\cpp\game2048_v0\resource.h
+

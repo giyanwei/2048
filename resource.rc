@@ -1,0 +1,15 @@
+// resource.rc
+#include "resource.h"
+#include <afxres.h>
+
+// Menu
+G2048 MENU DISCARDABLE 
+BEGIN
+	POPUP "&Game 2028"
+	BEGIN
+		MENUITEM "Re&start\tF2",		IDM_RESTART
+		MENUITEM SEPARATOR
+		MENUITEM "E&xit\tESC",			IDM_EXIT
+	END
+	MENUITEM "&Help",					IDM_HELP
+END
